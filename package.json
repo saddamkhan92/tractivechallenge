@@ -1,0 +1,18 @@
+{
+  "name": "playwright-javascript",
+  "version": "1.0.0",
+  "description": "This is Test Automation framework designed using Playwright and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "headedTest": "playwright test --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "copyfiles": "^2.4.1",
+    "npm-check-updates": "^16.9.0",
+    "rimraf": "^5.0.0"
+  }
+}

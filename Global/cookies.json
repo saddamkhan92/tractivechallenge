@@ -1,0 +1,39 @@
+{
+  "cookies": [
+    {
+      "name": "interview",
+      "value": "7lBPV9iik6r9MNE5dKw9nzF9CstdlEJl",
+      "domain": ".tractive.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "domain",
+      "value": ".tractive.com",
+      "domain": ".tractive.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://my-stage.tractive.com",
+      "localStorage": [
+        {
+          "name": "mobileID",
+          "value": "\"3500a5e0-9090-11ef-879b-25cb8f860f80\""
+        },
+        {
+          "name": "NRBA_SESSION",
+          "value": "{\"value\":\"dd813c06545c52c7\",\"inactiveAt\":1729615251477,\"expiresAt\":1729627851477,\"updatedAt\":1729613451478,\"sessionReplay\":0,\"sessionTraceMode\":0,\"custom\":{}}"
+        }
+      ]
+    }
+  ]
+}
